@@ -1,4 +1,6 @@
-Steps to Run the HACK_ML script
+Backdoor-detector-for-Deep-Neural-Network:  
+
+Steps to Run the HACK_ML script:
 
 Note: Follow the same process for all badnets from B1, B2....Bn
 
